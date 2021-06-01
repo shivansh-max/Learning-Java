@@ -1,0 +1,4 @@
+* NOTE'S :
+
+* Vehicle and car in this folder have a is-a relationship as meaning that a car is a vehicle.
+* Computer and other parts of the computer is a has-a relation-ship because a computer has the rest of teh stuff.
